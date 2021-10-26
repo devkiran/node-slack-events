@@ -1,5 +1,5 @@
 const http = require('http');
-const slackWebhook = require('./src/slack');
+const slackWebhook = require('node-slack-events');
 
 const server = http.createServer();
 

@@ -1,12 +1,12 @@
 {
-  "name": "node-slack-webhook",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "node-slack-events",
+  "version": "1.0.4",
+  "description": "This node module helps you listen to events from Slack's Event API.",
+  "main": "./src/slack.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["slack", "node", "events"],
   "author": "Kiran Krishnan",
   "license": "ISC"
 }
