@@ -1,6 +1,6 @@
 {
   "name": "node-slack-events",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This node module helps you listen to events from Slack's Event API.",
   "main": "./src/slack.js",
   "scripts": {
