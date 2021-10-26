@@ -4,9 +4,12 @@
   "description": "This node module helps you listen to events from Slack's Event API.",
   "main": "./src/slack.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\""
   },
   "keywords": ["slack", "node", "events"],
   "author": "Kiran Krishnan",
-  "license": "ISC"
+  "license": "ISC",
+  "files" : [
+    "src"
+  ]
 }
