@@ -6,10 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\""
   },
-  "keywords": ["slack", "node", "events"],
+  "keywords": [
+    "slack",
+    "node",
+    "events"
+  ],
   "author": "Kiran Krishnan",
   "license": "ISC",
-  "files" : [
+  "files": [
     "src"
   ]
 }
